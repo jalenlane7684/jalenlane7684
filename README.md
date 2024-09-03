@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jalenlane7684
-- 👀 I’m interested in esports and programming.
-- 🌱 I’m currently learning game development in Unity.
+- 👀 I’m interested in esports, software development and web design.
+- 🌱 I’m currently learning web and graphic design.
 
 <!---
 jalenlane7684/jalenlane7684 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
